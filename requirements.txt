@@ -1,0 +1,7 @@
+torch
+unimol-tools
+baal
+pandas
+numpy
+rdkit
+scikit-learn 
